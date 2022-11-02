@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 /*@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';*/
-@import url('https://fonts.cdnfonts.com/css/helvetica-neue-9');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 /*
 	Stellar by HTML5 UP
@@ -23,7 +23,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -126,7 +126,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: inherit;
+		font-family: 'Roboto', sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -171,7 +171,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: bold;
 	}
 
 	em, i {
