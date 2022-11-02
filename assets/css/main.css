@@ -3783,3 +3783,21 @@ input, select, textarea {
 			}
 
 		}
+
+/* Added */
+#textbox1 {
+	text-align: left;
+	width: 48%;
+	height: 100%;
+}
+
+#textbox2 {
+	text-align: left;
+	padding-left: 3.5%;
+	width: 100%;
+	height: 100%;
+}
+
+.onerow {
+	display: table-cell;
+}
